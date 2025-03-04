@@ -29,8 +29,3 @@ This project focuses on **early detection of plant diseases** using **Deep Learn
 ✅ Enable real-time mobile processing  
 ✅ Develop a farmer-friendly interface  
 ✅ Integrate IoT field data  
-
-📌 **GitHub Repository:** [Insert your GitHub link here]  
-📌 **LinkedIn Post Coming Soon!**  
-
-#DeepLearning #MachineLearning #AI #AgricultureTech #ComputerVision #Python  
